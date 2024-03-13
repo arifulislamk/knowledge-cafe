@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import { useState } from "react";
 import Blog from "../Blog/Blog";
 
-const Blogs = () => {
+const Blogs = ({handleBookmarksBtn}) => {
 
     const [blogs, setBlogs] = useState([]);
     useEffect(() => {
@@ -16,6 +16,7 @@ const Blogs = () => {
             <h2 className="text-2xl font-bold">Blogs : {blogs.length}</h2>
             {
                 blogs.map(blog => <Blog
+                    handleBookmarksBtn ={handleBookmarksBtn}
                     key={blog.id}
                     blog={blog}>
 

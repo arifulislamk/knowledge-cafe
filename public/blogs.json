@@ -1,72 +1,55 @@
 [
     {
         "id": 1,
-        "cover_img": "https://i.ibb.co/8990Hb0/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
-        "title": "The Secret Garden",
-        "author": "Jane Doe",
-        "author_img": "https://i.ibb.co/V2NnfQx/ospan-ali-6xv4-A1-VA1r-U-unsplash.jpg",
-        "posted_date": "2024-03-13",
-        "reading_time": 45,
+        "cover": "https://i.ibb.co/84Zfw2n/1.jpg",
+        "title": "Top 10 ES6 Features You Must Know",
+        "author_img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "author": "Hamza Sohail",
+        "posted_date": "September 15, 2023",
+        "reading_time": 5,
         "hashtags": [
-            "fiction",
-            "mystery",
-            "nature"
+            "beginners",
+            "es6"
         ]
     },
     {
-        "id": 20,
-        "cover_img": "https://i.ibb.co/pLgCvMc/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
-        "title": "The Lost Treasure",
-        "author": "John Smith",
-        "author_img": "https://i.ibb.co/VTVCvxw/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
-        "posted_date": "2024-03-12",
-        "reading_time": 30,
+        "id": 2,
+        "cover": "https://i.ibb.co/6N2dgnZ/2.png",
+        "title": "JavaScript Objects for Absolute Beginners: A Fun Introduction",
+        "author_img": "https://i.ibb.co/7rFSJx5/girl1.jpg",
+        "author": "Sajal Ali",
+        "posted_date": "August 28, 2023",
+        "reading_time": 4,
         "hashtags": [
-            "adventure",
-            "exploration",
-            "history"
+            "javascript",
+            "coding",
+            "dev"
         ]
     },
     {
-        "id": 30,
-        "cover_img": "https://i.ibb.co/gwCJSy5/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
-        "title": "Beyond the Stars",
-        "author": "Alice Johnson",
-        "author_img": "https://i.ibb.co/tKDxB0h/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg",
-        "posted_date": "2024-03-11",
-        "reading_time": 60,
+        "id": 3,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Component lifecycle in React — Class component vs Functional component",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Feroze Khan",
+        "posted_date": "July 10, 2023",
+        "reading_time": 10,
         "hashtags": [
-            "science fiction",
-            "space",
-            "discovery"
+            "mid_level",
+            "react"
         ]
     },
     {
-        "id": 40,
-        "cover_img": "https://i.ibb.co/YD2V47n/top-view-desk-concept-with-coffee.jpg",
-        "title": "The Enchanted Forest",
-        "author": "David Brown",
-        "author_img": "https://i.ibb.co/H7PZHjX/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
-        "posted_date": "2024-03-10",
-        "reading_time": 45,
+        "id": 4,
+        "cover": "https://i.ibb.co/vvTfkcv/4.jpg",
+        "title": "Free images and resources collection for website",
+        "author_img": "https://i.ibb.co/Sn7zB4q/girl2.jpg",
+        "author": "Anmol Baloch",
+        "posted_date": "June 5, 2023",
+        "reading_time": 9,
         "hashtags": [
-            "fantasy",
-            "magic",
-            "adventure"
-        ]
-    },
-    {
-        "id": 50,
-        "cover_img": "https://i.ibb.co/jRj1wgG/blue-workplace-with-laptop-fruits-black-tea-cup-top-view-flat-lay.jpg",
-        "title": "The Art of Deception",
-        "author": "Emily White",
-        "author_img": "https://i.ibb.co/5FpRWLy/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
-        "posted_date": "2024-03-09",
-        "reading_time": 40,
-        "hashtags": [
-            "thriller",
-            "mystery",
-            "crime"
+            "development",
+            "resources"
         ]
     }
 ]

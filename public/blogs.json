@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://i.ibb.co/8990Hb0/top-view-workspace-with-copy-space-notebook-top-agenda.jpg",
+        "title": "The Secret Garden",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/V2NnfQx/ospan-ali-6xv4-A1-VA1r-U-unsplash.jpg",
+        "posted_date": "2024-03-13",
+        "reading_time": 45,
+        "hashtags": [
+            "fiction",
+            "mystery",
+            "nature"
+        ]
+    },
+    {
+        "id": 20,
+        "cover_img": "https://i.ibb.co/pLgCvMc/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+        "title": "The Lost Treasure",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/VTVCvxw/jake-nackos-IF9-TK5-Uy-KI-unsplash.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 30,
+        "hashtags": [
+            "adventure",
+            "exploration",
+            "history"
+        ]
+    },
+    {
+        "id": 30,
+        "cover_img": "https://i.ibb.co/gwCJSy5/jess-bailey-q10-VITr-VYUM-unsplash.jpg",
+        "title": "Beyond the Stars",
+        "author": "Alice Johnson",
+        "author_img": "https://i.ibb.co/tKDxB0h/joseph-gonzalez-i-Fg-Rcq-Hznqg-unsplash.jpg",
+        "posted_date": "2024-03-11",
+        "reading_time": 60,
+        "hashtags": [
+            "science fiction",
+            "space",
+            "discovery"
+        ]
+    },
+    {
+        "id": 40,
+        "cover_img": "https://i.ibb.co/YD2V47n/top-view-desk-concept-with-coffee.jpg",
+        "title": "The Enchanted Forest",
+        "author": "David Brown",
+        "author_img": "https://i.ibb.co/H7PZHjX/christopher-campbell-r-DEOVt-E7v-Os-unsplash.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 45,
+        "hashtags": [
+            "fantasy",
+            "magic",
+            "adventure"
+        ]
+    },
+    {
+        "id": 50,
+        "cover_img": "https://i.ibb.co/jRj1wgG/blue-workplace-with-laptop-fruits-black-tea-cup-top-view-flat-lay.jpg",
+        "title": "The Art of Deception",
+        "author": "Emily White",
+        "author_img": "https://i.ibb.co/5FpRWLy/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+        "posted_date": "2024-03-09",
+        "reading_time": 40,
+        "hashtags": [
+            "thriller",
+            "mystery",
+            "crime"
+        ]
+    }
+]
